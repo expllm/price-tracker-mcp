@@ -2,7 +2,7 @@
 
 from mcp.server.fastmcp import FastMCP, Context
 import asyncio
-from src.mcpserver.scraper import get_producthistory_prices
+from mcpserver.scraper import get_producthistory_prices 
 # Import from your other file
 
 # Create the MCP app
